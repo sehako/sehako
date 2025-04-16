@@ -34,7 +34,7 @@ Developed with Spring Boot, Thymeleaf, and reactive web using native JavaScript
 ---
 
 ### 📬 **Contact Me**  
-- 🌐 Blog/Portfolio: https://sehako.github.io/
+- 🌐 Blog/Portfolio: https://velog.io/@gkrdh99/posts
 - 📫 Email: dhtpgkr1999@gmail.com  
 - 💼 LinkedIn: *In preparation* 
 
