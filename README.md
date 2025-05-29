@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Sehako&fontSize=40&color=gradient&type=waving&animation=fadeIn)  
 
-## 👋 Hi, I'm Sehak O (오세학)!  
+## 👋 Hi, I'm Sehak Oh (오세학)!  
 
 ### 🎓 **Education**  
 - **Hankyong National University**, B.S. in Computer Engineering (한경대학교 컴퓨터공학 학사) (2018–2024)
