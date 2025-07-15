@@ -35,12 +35,14 @@
 ---
 
 ### 🚀 **Projects**  
-
 - [Bouldermort](https://github.com/Bouldermort-Team/Bouldermort)
+
 Backend Developer, Microservices Architect
 - [Drawaing](https://github.com/AIOI-Team/Drawaing)
+
 Cloud Infrastructure Engineer, Microservices Architect
 - [Pillme](https://github.com/American-Startup/Pillme)
+
 Backend Developer, Cloud Infrastructure Engineer
 ---
 
