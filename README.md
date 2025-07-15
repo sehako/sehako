@@ -3,8 +3,8 @@
 ## 👋 Hi, I'm Sehak Oh (오세학)!  
 
 ### 🎓 **Education**  
-- **Hankyong National University**, B.S. in Computer Engineering (한경대학교 컴퓨터공학 학사) (2018–2024)
 - **SSAFY 12th Bootcamp**, Samsung Software Academy for Youth (삼성 청년 SW 아카데미 12기)
+- **Hankyong National University**, B.S. in Computer Engineering (한경대학교 컴퓨터공학 학사) (2018–2024)
 ---
 
 ### 💡 **My Tech Stack**
