@@ -35,10 +35,13 @@
 ---
 
 ### 🚀 **Projects**  
-- [Facial Recognition Door Lock](https://github.com/sehako/Doorlock)   
-Android Developer, Backend Supporter (PHP)
-- [Players](https://github.com/Lchangha0812/players)  
-Developed with Spring Boot, Thymeleaf, and reactive web using native JavaScript
+
+- [Bouldermort](https://github.com/Bouldermort-Team/Bouldermort)
+Backend Developer, Microservices Architect
+- [Drawaing](https://github.com/AIOI-Team/Drawaing)
+Cloud Infrastructure Engineer, Microservices Architect
+- [Pillme](https://github.com/American-Startup/Pillme)
+Backend Developer, Cloud Infrastructure Engineer
 ---
 
 ### 📈 **Coding Profile & Stats**  
